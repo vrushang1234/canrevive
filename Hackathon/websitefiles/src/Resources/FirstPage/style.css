@@ -1,0 +1,22 @@
+.FirstPage{
+    overflow: hidden;
+    background-color: #74B85D;
+    height: 100vh;
+}
+
+.earth-pic{
+    display: flex;
+    position: fixed;
+    height: 80%;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.save-earth{
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 8vw;
+    color: #F4F4F4;
+    font-family: 'Poppins', sans-serif;
+}

@@ -1,0 +1,41 @@
+.Icons{
+    height: 80%;
+    position: relative;
+    top: 40%;
+    transform: translateY(-50%);
+    display: grid;
+    grid-template-columns: repeat(3,33.33%);
+    margin-top: 10%;
+    color: white;
+}
+.iconcontainer{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+.QR{
+    height: 35vh;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: -10%;
+}
+.Trash{
+    height: 35vh;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: -10%;
+}
+.Wallet{
+    height: 35vh;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: -10%;
+}
+.icon_text{
+    margin-top: 5%;
+    font-size: 4vh;
+    font-weight: bold;
+    width: 90%;
+    font-family: 'Poppins', sans-serif;
+}

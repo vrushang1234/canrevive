@@ -1,0 +1,18 @@
+.SecondPage{
+    height: 105vh;
+    width: 100vw;
+    background-color: #74B85D;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    text-align: right;
+}
+.second-content{
+    font-size: 3vw;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+    width: 50%;
+    float: right;
+
+}
